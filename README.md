@@ -1,1 +1,2 @@
-# Project1
+# NinjaSquirrels
+Group Project
